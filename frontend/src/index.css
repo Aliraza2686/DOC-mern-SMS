@@ -1,0 +1,248 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  margin: 0;
+  padding: 0;
+}
+.citysidebar {
+  /* background: rgb(3,65,99);
+  background: linear-gradient(137deg, rgba(3,65,99,1) 12%, rgba(34,56,23,1) 100%); */
+  background:  #353340;
+  
+  animation: toggleSide 0.3s ease-in;
+}
+.nav {
+  background-color: #f2f2f2;
+}
+.links {
+  background-color : #353340;
+}
+.csl {
+  border: 1px solid blue;
+}
+.line {
+  border-top: 1px solid blue;
+}
+.navbar {
+  /* background: rgb(3,65,99);
+  background: linear-gradient(137deg, rgba(3,65,99,1) 12%, rgba(34,56,23,1) 100%); */
+  background-color:  #353340;
+}
+.content {
+  background:  #1f1d2b;
+   height: 100vh;
+}
+@media (max-width : 600px) {
+   .content {
+    height: 150vh;
+   }
+}
+.student-table {
+  background: #353340;
+  color: #fff;
+}
+.sideContent {
+  background: rgb(3,65,99);
+  background: linear-gradient(137deg, rgba(3,65,99,1) 12%, rgba(34,56,23,1) 100%);
+  height: 70vh;
+  animation: toggleContent 0.2s ease-in;
+}
+.citySearch {
+  background-color: #353340;
+  font-weight: bold;
+}
+.searchside {
+    background-color: rgb(35, 35, 50);
+    height: 100vh;
+}
+
+.profile {
+  background: #1f1d2b;
+  height: 30vh;
+  width: 100%;
+}
+.j-b {
+  background: #353340;
+}
+.side {
+  background: #1f1d2b;
+  
+  height: 100vh;
+}
+.picture {
+  border: 2px rgb(88, 88, 135) solid;
+}
+
+.toggle-item {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.toggle-item + label {
+  display: flex;
+  width: 7em;
+  height: 3em;
+  background: blue;
+  border-radius: 50px;
+  position: relative;
+  transition: all .3s ease;
+  cursor: pointer;
+  box-shadow: inset 0 0 5px #222;
+}
+.toggle-item + label:after {
+  content: '';
+  position: absolute;
+  width: 2.5em;
+  height: 2.5em;
+  background: #fff;
+  border-radius: 50%;
+  top: .25em;
+  left: .25em;
+  transition: all .2s ease;
+}
+.toggle-item:checked + label {
+  background: #000;
+}
+.toggle-item:checked + label:after {
+  left: 4.1em;
+}
+
+@media(max-width : 600px) {
+  .searchside {
+    height: 90vh;
+    width: 100%;
+  }
+ 
+}
+
+.style {
+  width:10%;height:0;padding-bottom:100%;position:relative;
+
+}
+
+.detail {
+  font-family: 'Courier New', Courier, monospace;
+  box-shadow: 5px 10px #beb3b3 ;
+  animation: bottomAnim 0.4s ease-in;
+}
+.styletwo {
+  position:absolute;
+}
+.p-b {
+ box-shadow: 2px 5px #333;
+}
+.noResult {
+  animation : noRes 0.5s ease-in;
+}
+
+@keyframes noRes {
+  0% {
+    transform: translateY(-80px);
+    opacity: 0.2;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.rightAnim {
+  animation: rightAnim 0.7s ease-in;
+}
+@keyframes rightAnim {
+  0% {
+    transform: translateX(80px);
+    opacity: 0.2;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes toggleSide {
+  0% {
+    transform: translateX(-80px);
+    opacity: 0.2;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes toggleContent {
+  0% {
+    transform: translateX(80px);
+    opacity: 0.1;
+  }
+  30%{
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  70%{
+    opacity: 0.7;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.leftAnim {
+  animation: leftAnim 0.6s ease-in;
+}
+@keyframes leftAnim {
+  0% {
+    transform: translateX(-80px);
+    opacity: 0.2;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.myUser {
+  color: #D6D5A8;
+}
+.mychar {
+  background-color: #01012e;
+}
+.citymain {
+  background-color: #F2E7D5;
+}
+.mylogo {
+  background-color: #F2E7D5;
+  
+}
+.companyName {
+  font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 3px;
+}
+.dash {
+  background-color:   #1f1d2b;
+}
+
+@keyframes bottomAnim {
+  0% {
+    transform : translateY(80px)
+
+  }
+  100% {
+    transform: translateY(0);
+  }
+}

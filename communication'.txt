@@ -1,0 +1,135 @@
+communication is defined 
+unnderstading and imagination among varius parties, 
+
+business includes those organizations, which are engaged in the production and distribution of goods and services to earn profit. 
+therefore business communication means, flow of information, perception e.t.c. either within a business organization or outside the organization 
+among diffrent parties.
+
+Explanation : 
+     flow between two or more parties. in business communication the meterial flow from one to another person
+     orr from many persons to diffrent people's.this flow make either be inside the organization or outside the organization.
+
+flow of iniformation takes place when a party transfers meterial to another mine. for example, when a newscaster says, " pakistan has conducted nuclear tests on 28th may 1998 ".
+this is a flow of information from newscaster to listeners.flow of perception means of different feelings. finaly, flow of imaginaton that occur's when a painter conways his or her imagination through a portrait.
+
+External communication : -
+     :- hiring the employees
+     :- dealing with customers
+     :- nigotiating with suppliers and finances
+     :- informing the investors
+     :- interacting with the government
+
+Communicatin inside organization : -
+
+    different employees and officials in an organization need to communicate to each other. this initernal communication with itrs imortance is shown in the following ways:
+    :- setting goals and objectives
+    :- making and implementing decisions
+    :- manufacturing the product
+    :- interaction between employer and employees
+    
+
+Diffrentiate between formal and informal language :-
+
+                                                    Formal : - { 
+                                                                      :- it is a languages spoken in office, business and other formal places 
+ 				      :-  proper  and standerd words are uses.
+				      :- it consist of specific purpose words like manager, supervisor, owner, employer etc.
+			                      :-  it is used comperetively less than informal language.
+				      :- it is used when the speaker is relaxed.
+				   }
+                                                   Informal : - { 
+ 					 :- it is a language at home or with friend.
+					 :- improper word and slangs are used.
+					 :- it has all purpose words like boss that stands for various personalities.
+					 :- it is used in daily life.
+					 :- it is used when speaker is in a hurry
+				}
+
+7 C's :--------------------------------------------------------------------------------------------------
+
+Correctness :-  [{
+
+  spellings, facts and figures should be accurate :
+  use the correct level of language. {
+                                                                incorrect : - we thank you in anticipation of this curtsy and assure you that it will be pleasure to serve you in simmiler manner
+				correct : -   i will appriciate you for helping us let me know when i will return the payment 
+				}
+  include only accurate facts and figures.
+  maintain acceptable writing machanics.
+
+}]
+
+Conciseness : [ {
+  Trite : {
+               with trite : -   in accordance with your request of recent date, we are enclosing here with our cashiers check in the amount of rupees 20 thousands, representing a withdraw of saidsaving account number : 3593
+               concise version : - accoring to your request of april 25, check of rupees 20 thounsand is enclosed
+    Avoid unnessesary repetition : {
+                      example :- I have your letter of october 14 and wish to say that we will be glad to give you a refuund for shirt you purchase here last week
+                      example : - you can avail refund for the shirt you purchased last week
+               }
+            } 
+}]
+
+Clarity : [
+ {
+    a) Choose words that are short, fimilier and conversational.
+    b) Construct effective santances and paragraph's.
+    c) achive appropiate readability.
+    d) include example's , illustrations etc.
+ }
+ {
+      example :- the bank statement shows an overdraft of ruppes 10 thousands.
+      example:- the bank statement shows an access withdrawl of rupees 20 thousands.
+ }
+]
+
+Completeness : - [{  
+     a) answer all questions asked.
+     b) give something when desireable.
+     c) check for five W's. (what, when, where, who, why, how )
+}]
+
+Concreteness : [
+ {
+     Use specific facts and figures
+     put action in the work : { 
+                     they held meeting in the office
+                     they met in the office
+          }
+     choose viviv image building words : {
+                     this is a very good computer
+                     the PV 800 mhz, 20gb hv, 64mb ram, 5mb cashe, intel gen proccssor, in its casing is a computer of new millennuim 
+    } 
+ }
+sentances {
+   these brackes stop car within short distance.
+   the haidrolic presure brackes stop a car with a distance of two feet as soon as they are applied
+ }
+]
+
+Considration : [{
+     defination :- 
+     apply integrity in the message 
+     emphesise the positive 
+
+     example : We do not refund if the refund item is sold and unsaleable.
+     positive : We do refund if the returned item is cleaned and saleable
+}]
+
+7) courtesy : [{
+ be tackfull 
+
+ example : your letter is not complete i can not understand. 
+             if i understand your letter correctly , you want to say that ------- 
+
+ omit expression that can irritate
+ example : you have faild, your have no choice, you neglect, you clame that.
+ if you want to show the curtsy with the customer
+
+ answer or male promtly 
+ grant and apologize 
+
+ it is always adviseable to give some favor to the customer if he ask for it
+ if a mistake is commited it is ok to apologize
+
+}]
